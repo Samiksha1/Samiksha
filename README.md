@@ -1,0 +1,2 @@
+# Samiksha
+my first repository
